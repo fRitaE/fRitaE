@@ -24,7 +24,7 @@ NADA!
 
 Qualquer área da informática que não envolva Sites Web...
 
-Preferencialmente manutenção da área de software e hardware.
+Preferencialmente manutenção de software e hardware.
 
 ## Locale:
 
